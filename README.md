@@ -93,11 +93,13 @@ set a `DB_PATH` environment variable:
 DB_PATH="PATH_TO_DATABASE"
 ```
 
-Doing this is not yet officially supported. Databases like MSSQL and MySQL might not work as expected.
+Doing this is not yet officially supported. Databases like MSSQL and MySQL might
+not work as expected.
 
 ## Roadmap
 
-This section should be a simple list of maojr feature plans. You can also link to some dedicated document or resource for features. For example:
+This section should be a simple list of major feature plans. You can also link
+to some dedicated document or resource for features. For example:
 
 - [x] Add support for controllers
 - [ ] Spanish translation
